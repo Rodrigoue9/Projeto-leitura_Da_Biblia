@@ -1,3 +1,19 @@
+
+header{
+
+}
+header img{
+  width: 40px;
+  height: 30px;
+}
+header .bandeira_do_brasil{
+  width: 45px;
+  height: 45px;
+}
+
+
+
+
 .e-card {
     margin: 50px auto;
     background: transparent;
